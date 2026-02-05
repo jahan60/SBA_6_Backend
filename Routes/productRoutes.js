@@ -44,7 +44,16 @@ let updatedProduct = await Product.findByIdAndUpdate(
 if (!updatedProduct) return res.status(404).json({error: "Product Not Found" });
 res.json(updatedProduct);
 
-})
+});
+
+//Delete 
+router
+.route("/:id")
+.delete(async (req, res)=>{
+    let deletedProduct = await Product.findByIdAndDelete(req.params.id);
+    if (!deletedProduct) return res.status (404).json({error: "Product Not Found"});
+    res.json(deletedProduct);
+});
 
 
 
