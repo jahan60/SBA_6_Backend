@@ -26,13 +26,25 @@ router
 router
 .route("/")
 .get(async (req, res)=>{
-    let product = await Product.find();
+    let products = await Product.find();
 
     if(!product) return res.status(404).json({ error: "Product Not Found"});
-    res.json(product);
+    res.json(products);
 });
 //update 
+router
+.route("/:id")
+.put(async (req, res)=>{
+let updatedProduct = await Product.findByIdAndUpdate(
+    req.params.id,
+    req.body,
+    { new: true, runValidators: true },
+);
 
+if (!updatedProduct) return res.status(404).json({error: "Product Not Found" });
+res.json(updatedProduct);
+
+})
 
 
 
