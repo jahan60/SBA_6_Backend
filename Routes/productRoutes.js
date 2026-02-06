@@ -28,7 +28,7 @@ router
 .get(async (req, res)=>{
     let products = await Product.find();
 
-    if(!product) return res.status(404).json({ error: "Product Not Found"});
+    if(!products) return res.status(404).json({ error: "Product Not Found"});
     res.json(products);
 });
 //update 
