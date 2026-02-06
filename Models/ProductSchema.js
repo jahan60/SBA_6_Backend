@@ -45,8 +45,13 @@ productSchema.virtual("discountedPrice").get(function(){
     return this.price - this.price * discount;
 });
 
+//Indexes
+productSchema.index({ title: 1 });
+productSchema.index({ category: 1 });
+productSchema.index({ price: 1 });
+productSchema.index({ category: 1, price: -1 });
 
 
 
-
+//Export Model
 export default mongoose.model("Product", productSchema);
