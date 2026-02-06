@@ -51,7 +51,15 @@ productSchema.index({ category: 1 });
 productSchema.index({ price: 1 });
 productSchema.index({ category: 1, price: -1 });
 
+//Instance method on one product
+productSchema.methods.isExpensive = function (){
+    return this.price > 50;
+};
 
+//Static method on the whole collection
+productSchema.statics.findByCategory = function (category){
+    return this.find({ category });
+};
 
 //Export Model
 export default mongoose.model("Product", productSchema);
