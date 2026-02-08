@@ -1,0 +1,128 @@
+[{
+  "_id": {
+    "$oid": "69867f0644fb7b6ea6a8abca"
+  },
+  "name": "David Kim",
+  "email": "david.kim@example.com",
+  "password": "kimStrong22",
+  "phoneNumber": "517-555-6633",
+  "createdAt": {
+    "$date": "2026-02-06T23:53:42.455Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-06T23:53:42.455Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69867f4544fb7b6ea6a8abcc"
+  },
+  "name": "Sara Johnson",
+  "email": "sara.johnson@example.com",
+  "password": "saraPass!",
+  "phoneNumber": "734-555-7788",
+  "createdAt": {
+    "$date": "2026-02-06T23:54:45.995Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-06T23:54:45.995Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69867f9344fb7b6ea6a8abce"
+  },
+  "name": "Marcus Lee",
+  "email": "marcus.lee@example.com",
+  "password": "leePass909",
+  "phoneNumber": "947-555-3144",
+  "createdAt": {
+    "$date": "2026-02-06T23:56:03.368Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-06T23:56:03.368Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69868a3caae31294bf49ae3c"
+  },
+  "name": "Hannah Brooks",
+  "email": "hannah.brooks@example.com",
+  "password": "hannahPass33",
+  "phoneNumber": "517-555-9912",
+  "createdAt": {
+    "$date": "2026-02-07T00:41:32.524Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T00:41:32.524Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69868a4caae31294bf49ae3e"
+  },
+  "name": "Kelvin Adams",
+  "email": "kelvin.adams@example.com",
+  "password": "kelvinSafe77",
+  "phoneNumber": "906-555-4470",
+  "createdAt": {
+    "$date": "2026-02-07T00:41:48.903Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T00:41:48.903Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69868a5caae31294bf49ae40"
+  },
+  "name": "Priya Desai",
+  "email": "priya.desai@example.com",
+  "password": "priyaStrong55",
+  "phoneNumber": "248-555-3308",
+  "createdAt": {
+    "$date": "2026-02-07T00:42:04.398Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T00:42:04.398Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6986917a07324a8a6e36976b"
+  },
+  "name": "Emily Carter",
+  "email": "emily.carter@example.com",
+  "password": "EmilyC!456",
+  "phoneNumber": "248-771-5629",
+  "createdAt": {
+    "$date": "2026-02-07T01:12:26.304Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T01:12:26.304Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6986919107324a8a6e36976d"
+  },
+  "name": "Hassan Rami",
+  "email": "hassan.rami@example.com",
+  "password": "Hassan@123",
+  "phoneNumber": "313-482-9074",
+  "createdAt": {
+    "$date": "2026-02-07T01:12:49.613Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T01:12:49.613Z"
+  },
+  "__v": 0
+}]

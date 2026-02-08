@@ -1,0 +1,145 @@
+
+
+
+
+
+
+
+
+
+
+
+
+[{
+  "_id": {
+    "$oid": "6983d28c16667c743c6a20c7"
+  },
+  "title": "Yoga Mat",
+  "price": 29.99,
+  "category": "Fitness",
+  "inStocj": true,
+  "createdAt": {
+    "$date": "2026-02-04T23:13:16.365Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-04T23:13:16.365Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6983d33f16667c743c6a20cb"
+  },
+  "title": "Scented Candles Set",
+  "price": 14.99,
+  "category": "Home",
+  "inStocj": true,
+  "createdAt": {
+    "$date": "2026-02-04T23:16:15.401Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-04T23:16:15.401Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6983d34f16667c743c6a20cd"
+  },
+  "title": "Smart LED Bulb",
+  "price": 12.99,
+  "category": "Home",
+  "inStocj": true,
+  "createdAt": {
+    "$date": "2026-02-04T23:16:31.489Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-04T23:16:31.489Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69854c25b434a20d9fcf3ffb"
+  },
+  "title": "Bulb",
+  "price": 14.99,
+  "category": "Home",
+  "inStock": true,
+  "createdAt": {
+    "$date": "2026-02-06T02:04:21.582Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-06T02:04:21.582Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69855c192e35fdbdf3f758b3"
+  },
+  "title": "Non‑Slip Desk Mat",
+  "price": 21.99,
+  "category": "Office",
+  "inStock": true,
+  "createdAt": {
+    "$date": "2026-02-06T03:12:25.512Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-06T03:12:25.512Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69855c3c2e35fdbdf3f758b5"
+  },
+  "title": "Kitchen Knife Set",
+  "price": 49.99,
+  "category": "Kitchen",
+  "inStock": false,
+  "createdAt": {
+    "$date": "2026-02-06T03:13:00.655Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-06T03:13:00.655Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69855c542e35fdbdf3f758b7"
+  },
+  "title": "Running Shoes",
+  "price": 59.99,
+  "category": "Footwear",
+  "inStock": true,
+  "createdAt": {
+    "$date": "2026-02-06T03:13:24.696Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-06T03:13:24.696Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69855c852e35fdbdf3f758b9"
+  },
+  "title": "Coffee Mug",
+  "price": 9.99,
+  "category": "Home",
+  "inStock": true,
+  "createdAt": {
+    "$date": "2026-02-06T03:14:13.220Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-06T03:14:13.220Z"
+  },
+  "__v": 0
+}]
+
+
+
+
+

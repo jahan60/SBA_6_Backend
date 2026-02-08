@@ -1,0 +1,126 @@
+[{
+  "_id": {
+    "$oid": "6986903e07324a8a6e36975a"
+  },
+  "userId": {
+    "$oid": "67a90011c2f4a20012d45001"
+  },
+  "amount": 49.99,
+  "totalOrderCount": 1,
+  "status": "pending",
+  "createdAt": {
+    "$date": "2026-02-07T01:07:10.741Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T01:07:10.741Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6986906b07324a8a6e36975e"
+  },
+  "userId": {
+    "$oid": "67a90011c2f4a20012d45007"
+  },
+  "amount": 18.99,
+  "totalOrderCount": 2,
+  "status": "shipped",
+  "createdAt": {
+    "$date": "2026-02-07T01:07:55.063Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T01:07:55.063Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6986908407324a8a6e369760"
+  },
+  "userId": {
+    "$oid": "67a90011c2f4a20012d45006"
+  },
+  "amount": 62.4,
+  "totalOrderCount": 1,
+  "status": "cancelled",
+  "createdAt": {
+    "$date": "2026-02-07T01:08:20.878Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T01:08:20.878Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6986909707324a8a6e369762"
+  },
+  "userId": {
+    "$oid": "67a90011c2f4a20012d45005"
+  },
+  "amount": 230.75,
+  "totalOrderCount": 6,
+  "status": "completed",
+  "createdAt": {
+    "$date": "2026-02-07T01:08:39.554Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T01:08:39.554Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698690a507324a8a6e369764"
+  },
+  "userId": {
+    "$oid": "67a90011c2f4a20012d45004"
+  },
+  "amount": 89,
+  "totalOrderCount": 3,
+  "status": "pending",
+  "createdAt": {
+    "$date": "2026-02-07T01:08:53.758Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T01:08:53.758Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698690b507324a8a6e369766"
+  },
+  "userId": {
+    "$oid": "67a90011c2f4a20012d45003"
+  },
+  "amount": 15.25,
+  "totalOrderCount": 2,
+  "status": "shipped",
+  "createdAt": {
+    "$date": "2026-02-07T01:09:09.467Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T01:09:09.467Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698690c407324a8a6e369768"
+  },
+  "userId": {
+    "$oid": "67a90011c2f4a20012d45002"
+  },
+  "amount": 120.5,
+  "totalOrderCount": 4,
+  "status": "completed",
+  "createdAt": {
+    "$date": "2026-02-07T01:09:24.405Z"
+  },
+  "updatedAt": {
+    "$date": "2026-02-07T01:09:24.405Z"
+  },
+  "__v": 0
+}]
